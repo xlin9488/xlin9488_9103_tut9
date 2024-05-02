@@ -1,4 +1,4 @@
-# xlin9488_9103_tut9
+# xlin9488_9103_tut9_Quiz 8
 
 ## Part 1: Imaging Technology Inspiration
 
